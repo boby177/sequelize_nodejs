@@ -7,4 +7,4 @@ More information visit this link : https://youtu.be/3qlnR9hK-lQ
 ![thumbs1](https://github.com/boby177/sequelize_nodejs/blob/main/thumbs-1.png)
 
 ## Screenshot of relation from post into user table
-![thumbs1](https://github.com/boby177/sequelize_nodejs/blob/main/thumbs-1.png)
+![thumbs1](https://github.com/boby177/sequelize_nodejs/blob/main/thumbs-2.png)
